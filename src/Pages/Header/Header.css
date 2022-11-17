@@ -1,0 +1,10 @@
+.headeritem a{
+    margin: 0 0.25rem;
+}
+.headeritem a:hover{
+    background-color: aliceblue;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    color: blueviolet;
+    translate: 2s;
+}
